@@ -1,7 +1,3 @@
-Here’s a detailed README template for your Crop Recommendation Model:
-
----
-
 # Crop Recommendation Model 🌱
 
 ## Overview
@@ -76,6 +72,3 @@ We welcome contributions to improve the Crop Recommendation Model! If you would 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Let me know if you need any changes or additions!
